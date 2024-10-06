@@ -1,5 +1,5 @@
 # OpenCVprojetos
-Os códigos estão em --> https://github.com/NataniasVieiraMoura/OpenCVprojetos/tree/
+Os códigos estão em --> https://github.com/NataniasVieiraMoura/OpenCVprojetos/tree/master?tab=readme-ov-file
 São códigos que trabalham a biblioteca opencv;
 Tratam imagem. Veja que uma pasta possui imagem repetidas, contudo alteradas com as funções aplicadas
 Logica para todos os arquivos .py nesse código:
